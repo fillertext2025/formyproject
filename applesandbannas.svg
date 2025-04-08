@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox = "0 0 400 400"
+var imgab = `<svg xmlns="http://www.w3.org/2000/svg" viewBox = "0 0 400 400"
 width="400"
 height="400">
 <g fill="None" fill-opacity="0.0" stroke="#000000" stroke-opacity="0.00" stroke-width="0.3"><path d="
@@ -5168,4 +5168,4 @@ M 162.00 355.00
 C 164.33 355.00 166.67 355.00 169.00 355.00
 C 167.74 353.29 163.33 353.53 162.00 355.00 Z"/>
 </g>
-</svg>
+</svg>`;
