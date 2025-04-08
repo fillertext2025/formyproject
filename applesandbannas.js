@@ -1,6 +1,6 @@
 var imgab = `<svg xmlns="http://www.w3.org/2000/svg" viewBox = "0 0 400 400"
-width="400"
-height="400">
+width="150"
+height="150">
 <g fill="None" fill-opacity="0.0" stroke="#000000" stroke-opacity="0.00" stroke-width="0.3"><path d="
 M 0.00 400.00 
 L 400.00 400.00
